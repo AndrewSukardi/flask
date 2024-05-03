@@ -2,5 +2,5 @@ Flask==3.0.3
 gTTS==2.5.1
 gunicorn==22.0.0
 keras==3.3.3
-opencv-contrib-python==4.9.0.80
+opencv-python-headless==4.7.0.72
 tensorflow==2.16.1
